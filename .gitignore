@@ -1,0 +1,4 @@
+node_modules/
+snowpack.config.js
+package.json
+package-lock.json
